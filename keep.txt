@@ -9,7 +9,10 @@ git remote add origin https://github.com/aishatmustapha31/HTML-Week1.git
 git push -u origin main
 
 
-…or push an existing repository from the command line
-git remote add origin https://github.com/aishatmustapha31/HTML-Week1.git
-git branch -M main
+
+
+
+git add .
+git commit -m "Project Update"
 git push -u origin main
+
